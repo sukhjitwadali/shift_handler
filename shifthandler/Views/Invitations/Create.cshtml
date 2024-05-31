@@ -1,0 +1,19 @@
+﻿@model shifthandler.Models.Invitation
+
+<h1>Create Invitation</h1>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="ShiftId" class="control-label">Shift</label>
+        <select asp-for="ShiftId" class="form-control" asp-items="ViewBag.ShiftId"></select>
+    </div>
+    <div class="form-group">
+        <label asp-for="WorkerId" class="control-label">Worker</label>
+        <select asp-for="WorkerId" class="form-control" asp-items="ViewBag.WorkerId"></select>
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

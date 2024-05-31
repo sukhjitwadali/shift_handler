@@ -1,0 +1,15 @@
+﻿@model shifthandler.Models.Invitation
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Shift Invitation</title>
+</head>
+<body>
+    <h2>Shift Invitation</h2>
+    <p>Hello @Model.Worker.Name,</p>
+    <p>You are invited to a shift on @Model.Shift.Date at @Model.Shift.Location.</p>
+    <p>Task: @Model.Shift.Task</p>
+    <p>Rate: @Model.Shift.Rate</p>
+</body>
+</html>

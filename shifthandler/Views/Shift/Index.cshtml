@@ -1,0 +1,36 @@
+﻿@model IEnumerable<shifthandler.Models.Shifts>
+
+@{
+    ViewBag.Title = "Shifts";
+}
+
+<h2>Shifts</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+
+<table class="table">
+    <tr>
+        <th>Date</th>
+        <th>Time</th>
+        <th>Location</th>
+        <th>Task</th>
+        <th>Rate</th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.Date)</td>
+            <td>@Html.DisplayFor(modelItem => item.Time)</td>
+            <td>@Html.DisplayFor(modelItem => item.Location)</td>
+            <td>@Html.DisplayFor(modelItem => item.Task)</td>
+            <td>@Html.DisplayFor(modelItem => item.Rate)</td>
+           
+        </tr>
+    }
+
+</table>

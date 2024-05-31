@@ -1,0 +1,33 @@
+﻿@model IEnumerable<shifthandler.Models.Invitation>
+
+<h1>Invitations</h1>
+<a href="@Url.Action("Create")" class="btn btn-primary">Create New Invitation</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Shift Location</th>
+            <th>Worker Name</th>
+            <th>Invitation Date</th>
+            <th>Confirmation Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var invitation in Model)
+        {
+            <tr>
+                <td>@invitation.Shift.Location</td>
+                <td>@invitation.Worker.Name</td>
+                <td>@invitation.InvitationDate</td>
+                <td>@invitation.ConfirmationDate?.ToString() ?? "Not Confirmed"</td>
+                <td>
+                    <a href="@Url.Action("Details", new { id = invitation.Id })">Details</a> |
+                    <a href="@Url.Action("Edit", new { id = invitation.Id })">Edit</a> |
+                    <a href="@Url.Action("Delete", new { id = invitation.Id })">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a href="@Url.Action("Index")" class="btn btn-primary">Back</a>
+
