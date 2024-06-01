@@ -1,0 +1,597 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\controllers\\invitationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\controllers\\invitationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\models\\invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\models\\invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\views\\invitations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\views\\invitations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sukjit Singh\\.nuget\\packages\\epplus\\7.1.3\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Migrations\\20240531192757_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shifthandler\\Migrations\\20240531192757_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\controllers\\shiftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\controllers\\shiftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\views\\shift\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\views\\shift\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\views\\workers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\views\\workers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\views\\workers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\views\\workers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\controllers\\workerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\controllers\\workerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\views\\invitations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\views\\invitations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\views\\shift\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\views\\shift\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\views\\invitations\\confirmationsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\views\\invitations\\confirmationsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\logs\\logfile.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\logs\\logfile.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\.nuget\\packages\\nlog.config\\4.7.15\\contentfiles\\any\\any\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\models\\shifts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\models\\shifts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\views\\invitations\\sendinvitationemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\views\\invitations\\sendinvitationemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|c:\\users\\sukjit singh\\source\\repos\\shifthandler\\shifthandler\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A7BD28-F54D-4290-AA27-36B5C2EFA871}|shifthandler\\shifthandler.csproj|solutionrelative:shifthandler\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Models\\Shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shifthandler\\Models\\Shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 119,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 29,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\.nuget\\packages\\epplus\\7.1.3\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\epplus\\7.1.3\\readme.txt",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\.nuget\\packages\\epplus\\7.1.3\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\epplus\\7.1.3\\readme.txt",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-31T20:02:19.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240531192757_login.cs",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Migrations\\20240531192757_login.cs",
+              "RelativeDocumentMoniker": "shifthandler\\Migrations\\20240531192757_login.cs",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Migrations\\20240531192757_login.cs",
+              "RelativeToolTip": "shifthandler\\Migrations\\20240531192757_login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T19:27:57.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "shifthandler\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "shifthandler\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T19:24:26.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "shifthandler\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "shifthandler\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T19:23:28.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "shifthandler\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "shifthandler\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T19:20:55.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "shifthandler\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "shifthandler\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T01:14:04.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ConfirmationSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Invitations\\ConfirmationSuccess.cshtml",
+              "RelativeDocumentMoniker": "shifthandler\\Views\\Invitations\\ConfirmationSuccess.cshtml",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Invitations\\ConfirmationSuccess.cshtml",
+              "RelativeToolTip": "shifthandler\\Views\\Invitations\\ConfirmationSuccess.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T01:06:13.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "logfile.log",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\logs\\logfile.log",
+              "RelativeDocumentMoniker": "shifthandler\\logs\\logfile.log",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\logs\\logfile.log",
+              "RelativeToolTip": "shifthandler\\logs\\logfile.log",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-31T00:53:02.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Workers\\Index.cshtml",
+              "RelativeDocumentMoniker": "shifthandler\\Views\\Workers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Workers\\Index.cshtml",
+              "RelativeToolTip": "shifthandler\\Views\\Workers\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T00:30:34.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Models\\Worker.cs",
+              "RelativeDocumentMoniker": "shifthandler\\Models\\Worker.cs",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Models\\Worker.cs",
+              "RelativeToolTip": "shifthandler\\Models\\Worker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T23:07:07.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SendInvitationEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Invitations\\SendInvitationEmail.cshtml",
+              "RelativeDocumentMoniker": "shifthandler\\Views\\Invitations\\SendInvitationEmail.cshtml",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Invitations\\SendInvitationEmail.cshtml",
+              "RelativeToolTip": "shifthandler\\Views\\Invitations\\SendInvitationEmail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T23:03:57.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Invitations\\Index.cshtml",
+              "RelativeDocumentMoniker": "shifthandler\\Views\\Invitations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Invitations\\Index.cshtml",
+              "RelativeToolTip": "shifthandler\\Views\\Invitations\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T23:03:21.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Invitations\\Create.cshtml",
+              "RelativeDocumentMoniker": "shifthandler\\Views\\Invitations\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Invitations\\Create.cshtml",
+              "RelativeToolTip": "shifthandler\\Views\\Invitations\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T23:02:52.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Workers\\Create.cshtml",
+              "RelativeDocumentMoniker": "shifthandler\\Views\\Workers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Workers\\Create.cshtml",
+              "RelativeToolTip": "shifthandler\\Views\\Workers\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T23:01:45.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Shifts.cs",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Models\\Shifts.cs",
+              "RelativeDocumentMoniker": "shifthandler\\Models\\Shifts.cs",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Models\\Shifts.cs",
+              "RelativeToolTip": "shifthandler\\Models\\Shifts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T22:54:54.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "shifthandler\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "shifthandler\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T22:54:47.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NLog.config",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\.nuget\\packages\\nlog.config\\4.7.15\\contentFiles\\any\\any\\NLog.config",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\nlog.config\\4.7.15\\contentFiles\\any\\any\\NLog.config",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\.nuget\\packages\\nlog.config\\4.7.15\\contentFiles\\any\\any\\NLog.config [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\nlog.config\\4.7.15\\contentFiles\\any\\any\\NLog.config [Read Only]",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwBsAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-30T22:52:43.603Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "shifthandler\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "shifthandler\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T22:48:37.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "shifthandler\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "shifthandler\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T22:47:38.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "shifthandler\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "shifthandler\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T21:30:39.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "shifthandler\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "shifthandler\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:07:15.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "shifthandler\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "shifthandler\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T20:56:24.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "shifthandler\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "shifthandler\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T20:56:20.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WorkersController.cs",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Controllers\\WorkersController.cs",
+              "RelativeDocumentMoniker": "shifthandler\\Controllers\\WorkersController.cs",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Controllers\\WorkersController.cs",
+              "RelativeToolTip": "shifthandler\\Controllers\\WorkersController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:44:14.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "shifthandler\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "shifthandler\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T20:39:21.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Shift\\Index.cshtml",
+              "RelativeDocumentMoniker": "shifthandler\\Views\\Shift\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Shift\\Index.cshtml",
+              "RelativeToolTip": "shifthandler\\Views\\Shift\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T20:39:15.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Shift\\Create.cshtml",
+              "RelativeDocumentMoniker": "shifthandler\\Views\\Shift\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Views\\Shift\\Create.cshtml",
+              "RelativeToolTip": "shifthandler\\Views\\Shift\\Create.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T20:39:07.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Program.cs",
+              "RelativeDocumentMoniker": "shifthandler\\Program.cs",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Program.cs",
+              "RelativeToolTip": "shifthandler\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:37:02.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Invitation.cs",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Models\\Invitation.cs",
+              "RelativeDocumentMoniker": "shifthandler\\Models\\Invitation.cs",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Models\\Invitation.cs",
+              "RelativeToolTip": "shifthandler\\Models\\Invitation.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:36:13.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvitationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Controllers\\InvitationsController.cs",
+              "RelativeDocumentMoniker": "shifthandler\\Controllers\\InvitationsController.cs",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Controllers\\InvitationsController.cs",
+              "RelativeToolTip": "shifthandler\\Controllers\\InvitationsController.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAewLYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:36:01.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShiftController.cs",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Controllers\\ShiftController.cs",
+              "RelativeDocumentMoniker": "shifthandler\\Controllers\\ShiftController.cs",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Controllers\\ShiftController.cs",
+              "RelativeToolTip": "shifthandler\\Controllers\\ShiftController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:27:07.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Startup.cs",
+              "RelativeDocumentMoniker": "shifthandler\\Startup.cs",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Startup.cs",
+              "RelativeToolTip": "shifthandler\\Startup.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAkwBoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:20:57.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "shifthandler\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "shifthandler\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:19:03.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Shift.cs",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Models\\Shift.cs",
+              "RelativeDocumentMoniker": "shifthandler\\Models\\Shift.cs",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\Models\\Shift.cs",
+              "RelativeToolTip": "shifthandler\\Models\\Shift.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:18:05.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\appsettings.json",
+              "RelativeDocumentMoniker": "shifthandler\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sukjit Singh\\source\\repos\\shifthandler\\shifthandler\\appsettings.json",
+              "RelativeToolTip": "shifthandler\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T22:16:00.107Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

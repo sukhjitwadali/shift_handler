@@ -90,14 +90,11 @@ C:\Users\Sukjit Singh\source\repos\shifthandler\shifthandler\bin\Debug\net8.0\ru
 C:\Users\Sukjit Singh\source\repos\shifthandler\shifthandler\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Sukjit Singh\source\repos\shifthandler\shifthandler\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Sukjit Singh\source\repos\shifthandler\shifthandler\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Sukjit Singh\source\repos\shifthandler\shifthandler\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\Sukjit Singh\source\repos\shifthandler\shifthandler\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
 C:\Users\Sukjit Singh\source\repos\shifthandler\shifthandler\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
 C:\Users\Sukjit Singh\source\repos\shifthandler\shifthandler\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
 C:\Users\Sukjit Singh\source\repos\shifthandler\shifthandler\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
 C:\Users\Sukjit Singh\source\repos\shifthandler\shifthandler\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
-C:\Users\Sukjit Singh\source\repos\shifthandler\shifthandler\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\Sukjit Singh\source\repos\shifthandler\shifthandler\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\Sukjit Singh\source\repos\shifthandler\shifthandler\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Sukjit Singh\source\repos\shifthandler\shifthandler\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\Sukjit Singh\source\repos\shifthandler\shifthandler\obj\Debug\net8.0\shifthandler.csproj.AssemblyReference.cache
@@ -154,3 +151,9 @@ C:\Users\Sukjit Singh\source\repos\shifthandler\shifthandler\bin\Debug\net8.0\NL
 C:\Users\Sukjit Singh\source\repos\shifthandler\shifthandler\bin\Debug\net8.0\NLog.Web.AspNetCore.dll
 C:\Users\Sukjit Singh\source\repos\shifthandler\shifthandler\bin\Debug\net8.0\NLog.Web.dll
 C:\Users\Sukjit Singh\source\repos\shifthandler\shifthandler\obj\Debug\net8.0\shifthandler.sourcelink.json
+C:\Users\Sukjit Singh\source\repos\shifthandler\shifthandler\bin\Debug\net8.0\EPPlus.dll
+C:\Users\Sukjit Singh\source\repos\shifthandler\shifthandler\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\Sukjit Singh\source\repos\shifthandler\shifthandler\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Users\Sukjit Singh\source\repos\shifthandler\shifthandler\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Sukjit Singh\source\repos\shifthandler\shifthandler\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sukjit Singh\source\repos\shifthandler\shifthandler\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll

@@ -5,7 +5,27 @@
 }
 
 <h2>Workers</h2>
+<a href="@Url.Action("Create")" class="btn btn-primary">Create Worker</a>
 
-<p>
-    @Html.ActionLink("Create Worker", "Create")
-</p>
+
+
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Phone</th>
+        <th>Position</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.Name)</td>
+            <td>@Html.DisplayFor(modelItem => item.Email)</td>
+            <td>@Html.DisplayFor(modelItem => item.Phone)</td>
+            <td>@Html.DisplayFor(modelItem => item.Position)</td>
+
+        </tr>
+    }
+
+</table>

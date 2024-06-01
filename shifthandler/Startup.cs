@@ -4,7 +4,11 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using OfficeOpenXml;
+
+using OfficeOpenXml;
 using shifthandler.Data;
+
 
 namespace shifthandler
 {
@@ -20,6 +24,8 @@ namespace shifthandler
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
+
             // Retrieve the connection string from appsettings.json
             string connectionString = Configuration.GetConnectionString("DefaultConnection");
 
@@ -94,7 +100,12 @@ namespace shifthandler
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Shift}/{action=Index}/{id?}");
+                    pattern: "{controller=Account}/{action=Login}");
+
+                endpoints.MapControllerRoute(
+                name: "shift",
+                pattern: "Shift/{action=Index}/{id?}",
+                defaults: new { controller = "Shift" });
 
                 endpoints.MapControllerRoute(
                 name: "invitations",

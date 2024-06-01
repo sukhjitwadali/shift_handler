@@ -28,10 +28,10 @@ namespace shifthandler.Migrations
                     b.Property<DateTime?>("ConfirmationDate")
                         .HasColumnType("datetime(6)");
 
-                    b.Property<Guid>("ConfirmationGuid")
+                    b.Property<Guid?>("ConfirmationGuid")
                         .HasColumnType("char(36)");
 
-                    b.Property<DateTime>("InvitationDate")
+                    b.Property<DateTime?>("InvitationDate")
                         .HasColumnType("datetime(6)");
 
                     b.Property<int>("ShiftId")
@@ -105,13 +105,13 @@ namespace shifthandler.Migrations
             modelBuilder.Entity("shifthandler.Models.Invitation", b =>
                 {
                     b.HasOne("shifthandler.Models.Shifts", "Shift")
-                        .WithMany("Invitations")
+                        .WithMany()
                         .HasForeignKey("ShiftId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("shifthandler.Models.Worker", "Worker")
-                        .WithMany("Invitations")
+                        .WithMany()
                         .HasForeignKey("WorkerId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -119,16 +119,6 @@ namespace shifthandler.Migrations
                     b.Navigation("Shift");
 
                     b.Navigation("Worker");
-                });
-
-            modelBuilder.Entity("shifthandler.Models.Shifts", b =>
-                {
-                    b.Navigation("Invitations");
-                });
-
-            modelBuilder.Entity("shifthandler.Models.Worker", b =>
-                {
-                    b.Navigation("Invitations");
                 });
 #pragma warning restore 612, 618
         }

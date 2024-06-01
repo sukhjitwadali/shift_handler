@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("shifthandler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+886a40b25b21f88543f74982fb39c4afb95edcbf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82ab99b4d2d7def3f3e059c8d1ddafc732e422e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("shifthandler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("shifthandler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

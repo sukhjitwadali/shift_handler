@@ -7,6 +7,9 @@ using System.Linq;
 using System.Net.Mail;
 using Microsoft.AspNetCore.Mvc.Rendering; // For SelectList
 using Microsoft.AspNetCore.Http; // For CookieOptions
+using System.IO;
+using OfficeOpenXml;
+
 
 namespace shifthandler.Controllers
 {
@@ -130,5 +133,55 @@ namespace shifthandler.Controllers
         {
             return _context.Invitations.Any(e => e.Id == id);
         }
+       
+// Inside InvitationsController
+public IActionResult DownloadExcelReport()
+    {
+        var invitations = _context.Invitations
+            .Include(i => i.Shift)
+            .Include(i => i.Worker)
+            .Where(i => i.ConfirmationDate != null)
+            .ToList();
+
+        // Create a new Excel package
+        using (var package = new ExcelPackage())
+        {
+            var worksheet = package.Workbook.Worksheets.Add("Invitations");
+
+            // Add headers
+            worksheet.Cells["A1"].Value = "Invitation ID";
+            worksheet.Cells["B1"].Value = "Shift Date";
+            worksheet.Cells["C1"].Value = "Shift Location";
+            worksheet.Cells["D1"].Value = "Worker Name";
+            worksheet.Cells["E1"].Value = "Worker Email";
+            worksheet.Cells["F1"].Value = "Worker Email";
+
+
+                // Add data
+                int row = 2;
+            foreach (var invitation in invitations)
+            {
+                worksheet.Cells[row, 1].Value = invitation.Id;
+                worksheet.Cells[row, 2].Value = invitation.Shift?.Date.ToString("MM/dd/yyyy");
+                worksheet.Cells[row, 3].Value = invitation.Shift?.Location;
+                worksheet.Cells[row, 4].Value = invitation.Worker?.Name;
+                worksheet.Cells[row, 5].Value = invitation.Worker?.Email;
+                worksheet.Cells[row, 6].Value = invitation.ConfirmationDate;
+
+                    
+                row++;
+            }
+
+            // Auto fit columns for better visibility
+            worksheet.Cells.AutoFitColumns();
+
+            // Convert the package to a byte array
+            byte[] excelBytes = package.GetAsByteArray();
+
+            // Return the Excel file as a FileStreamResult
+            return File(new MemoryStream(excelBytes), "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "InvitationsReport.xlsx");
+        }
     }
+
+}
 }

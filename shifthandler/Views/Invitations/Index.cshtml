@@ -2,6 +2,8 @@
 
 <h1>Invitations</h1>
 <a href="@Url.Action("Create")" class="btn btn-primary">Create New Invitation</a>
+<a asp-action="DownloadExcelReport" class="btn btn-primary">Download Excel Report</a>
+
 <table class="table">
     <thead>
         <tr>
@@ -19,7 +21,7 @@
                 <td>@invitation.Shift.Location</td>
                 <td>@invitation.Worker.Name</td>
                 <td>@invitation.InvitationDate</td>
-                <td>@invitation.ConfirmationDate?.ToString() ?? "Not Confirmed"</td>
+                <td>@invitation.ConfirmationDate?.ToString()</td>
                 <td>
                     <a href="@Url.Action("Details", new { id = invitation.Id })">Details</a> |
                     <a href="@Url.Action("Edit", new { id = invitation.Id })">Edit</a> |
